@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## pycharm Community的下载
 
-You can use the [editor on GitHub](https://github.com/lifeisnotouttogetu/yzthhjq.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+pycharm community作为一款开源免费软件适合初学者使用。我们可以上jetbrains官网免费下载https://www.jetbrains.com/pycharm/download/, 有windows、Mac、Linux三种系统版本，选好对应的系统后，我们选择第二个community版本下载（因为第一个要收费或者破解，community版本够用了，白嫖不香吗）。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+### pycharm Community的安装
+我们将下载的安装包打开，
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
